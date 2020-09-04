@@ -1,0 +1,855 @@
+{
+    "cityName": "New York",
+    "regions": [
+        {
+            "regionName": "The Bronx",
+            "allPlaces": 9000,
+            "filledPlaces": 4500,
+            "schools": [
+                {
+                    "schoolName": "School №1",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №2",
+                    "allPlaces": 900,
+                    "filledPlaces": 540,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №3",
+                    "allPlaces": 900,
+                    "filledPlaces": 630,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №4",
+                    "allPlaces": 900,
+                    "filledPlaces": 720,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №5",
+                    "allPlaces": 900,
+                    "filledPlaces": 180,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №6",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "regionName": "Queens",
+            "allPlaces": 7500,
+            "filledPlaces": 3000,
+            "schools": [
+                {
+                    "schoolName": "School №1",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №2",
+                    "allPlaces": 900,
+                    "filledPlaces": 540,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №3",
+                    "allPlaces": 900,
+                    "filledPlaces": 630,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №4",
+                    "allPlaces": 900,
+                    "filledPlaces": 720,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №5",
+                    "allPlaces": 900,
+                    "filledPlaces": 180,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №6",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "regionName": "Brooklyn",
+            "allPlaces": 9375,
+            "filledPlaces": 7500,
+            "schools": [
+                {
+                    "schoolName": "School №1",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №2",
+                    "allPlaces": 900,
+                    "filledPlaces": 540,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №3",
+                    "allPlaces": 900,
+                    "filledPlaces": 630,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №4",
+                    "allPlaces": 900,
+                    "filledPlaces": 720,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №5",
+                    "allPlaces": 900,
+                    "filledPlaces": 180,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №6",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "regionName": "Staten Island",
+            "allPlaces": 8833,
+            "filledPlaces": 5300,
+            "schools": [
+                {
+                    "schoolName": "School №1",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №2",
+                    "allPlaces": 900,
+                    "filledPlaces": 540,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №3",
+                    "allPlaces": 900,
+                    "filledPlaces": 630,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №4",
+                    "allPlaces": 900,
+                    "filledPlaces": 720,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №5",
+                    "allPlaces": 900,
+                    "filledPlaces": 180,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №6",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                }
+
+            ]
+        },
+        {
+            "regionName": "Manhattan",
+            "allPlaces": 10000,
+            "filledPlaces": 9000,
+            "schools": [
+                {
+                    "schoolName": "School №1",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №2",
+                    "allPlaces": 900,
+                    "filledPlaces": 540,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №3",
+                    "allPlaces": 900,
+                    "filledPlaces": 630,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №4",
+                    "allPlaces": 900,
+                    "filledPlaces": 720,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №5",
+                    "allPlaces": 900,
+                    "filledPlaces": 180,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                },
+                {
+                    "schoolName": "School №6",
+                    "allPlaces": 900,
+                    "filledPlaces": 450,
+                    "classes": [
+                        {
+                            "className": "First grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Second grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 140
+                        },
+                        {
+                            "className": "Third grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 100
+                        },
+                        {
+                            "className": "Fours grades",
+                            "allPlaces": 225,
+                            "filledPlaces": 80
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
